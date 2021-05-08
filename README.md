@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 ## This is my own version of the classic game of Tic Tac Toe
 
-Link (to the live site)
+https://brent-prod.github.io/tictactoe/
 
 ### I've build it using
 
