@@ -47,6 +47,9 @@ function playerAction(event) {
 		if (firstCell != '' || secondCell != '' || thirdCell != '') {
 			if (firstCell === secondCell && secondCell === thirdCell) {
 				document.querySelector('#messageSection').textContent = `${firstCell} wins`;
+				for (let i = 0; i < divs.length; i++) {
+					divs[i].removeEventListener('click', playerAction);
+				}
 			}
 		}
 	}
