@@ -35,3 +35,4 @@ It's currently not mobile-responsive.
 ### My experience developing the game (Optional)
 
 - Huge learning curve on how to reference innerText to a function
+

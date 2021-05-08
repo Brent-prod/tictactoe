@@ -1,5 +1,6 @@
 let divs = document.querySelectorAll('.cell');
 let turn = 1;
+
 let counter = 0;
 
 let winningCondition1 = document.querySelectorAll('#cell-1, #cell-2, #cell-3');
